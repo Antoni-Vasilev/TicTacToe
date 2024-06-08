@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497608103284",
+    "project_id": "nexanet-bg",
+    "storage_bucket": "nexanet-bg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497608103284:android:bd4d1b3192ca89372f4821",
+        "android_client_info": {
+          "package_name": "eu.nexanet.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497608103284-d97gmib8m2trtiof9n8k5hn9ndkc62o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlbDUMXCdC4C0sq474fDLY2TWyaCFs1lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497608103284-d97gmib8m2trtiof9n8k5hn9ndkc62o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

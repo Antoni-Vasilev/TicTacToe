@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <!-- Onboarding -->
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="welcome">Welcome</string>
+    <string name="compete">Compete</string>
+    <string name="scoreboard">Scoreboard</string>
+    <string name="onboarding_subtitle_1">One of the oldest world games now available on your smartphone device!</string>
+    <string name="onboarding_subtitle_2">Play the game with your friends, and prove that you’re a worthy opponent!</string>
+    <string name="onboarding_subtitle_3">Earn points and make your own way to the top of the scoreboard!</string>
+    <string name="sign_in_subtitle">Please sign in to continue.</string>
+    <string name="google_sign_in">Sign in with Google</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in_btn_sign_up">Don\'t have an account?</string>
+</resources>
