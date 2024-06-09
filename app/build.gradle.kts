@@ -12,8 +12,8 @@ android {
         applicationId = "eu.nexanet.tictactoe"
         minSdk = 26
         targetSdk = 34
-        versionCode = 1
-        versionName = "2024.06.08"
+        versionCode = 2
+        versionName = "2024.06.09"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 

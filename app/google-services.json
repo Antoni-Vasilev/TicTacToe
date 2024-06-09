@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:4019923351:android:57ef45760b9ae43fe63cd2",
+        "mobilesdk_app_id": "1:4019923351:android:259f9fd8ec10346de63cd2",
         "android_client_info": {
-          "package_name": "eu.nexanet.tictactoe.activity"
+          "package_name": "eu.nexanet.tictactoe"
         }
       },
       "oauth_client": [],

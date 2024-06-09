@@ -18,4 +18,7 @@
     <string name="forgot_password">Forgot password?</string>
     <string name="sign_up">Sign Up</string>
     <string name="sign_in_btn_sign_up">Don\'t have an account?</string>
+    <string name="full_name">Full name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="back_to_login">Back to login</string>
 </resources>

@@ -62,17 +62,13 @@
 
         <EditText
             android:id="@+id/fieldEmail"
+            style="@style/Theme.Input.Outline"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:autofillHints="emailAddress"
-            android:background="@drawable/input_outline_bg"
             android:hint="@string/email"
             android:inputType="textEmailAddress"
-            android:paddingStart="16dp"
-            android:paddingTop="16dp"
-            android:paddingEnd="1dp"
-            android:paddingBottom="16dp"
-            android:textColor="@color/text_primary" />
+            android:theme="@style/Theme.Input.Outline" />
 
         <Space
             android:layout_width="match_parent"
@@ -80,17 +76,13 @@
 
         <EditText
             android:id="@+id/fieldPassword"
+            style="@style/Theme.Input.Outline"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:autofillHints="emailAddress"
-            android:background="@drawable/input_outline_bg"
             android:hint="@string/password"
             android:inputType="textPassword"
-            android:paddingStart="16dp"
-            android:paddingTop="16dp"
-            android:paddingEnd="1dp"
-            android:paddingBottom="16dp"
-            android:textColor="@color/text_primary" />
+            android:theme="@style/Theme.Input.Outline" />
 
         <Space
             android:layout_width="match_parent"
@@ -135,6 +127,7 @@
                 android:layout_height="match_parent" />
 
             <TextView
+                android:id="@+id/btnSignUp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/roboto_bold"
